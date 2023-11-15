@@ -1,7 +1,7 @@
 # NAF Bookshelf
 
-##About
+## About
 A RESTful framework for managing a bookshelf.
 
-##License
+## License
 Apache Version 2.0
